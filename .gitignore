@@ -1,0 +1,8 @@
+bin
+obj
+
+App.Common/bin
+App.Common/obj
+
+
+.vs
